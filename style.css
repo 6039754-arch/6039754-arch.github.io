@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background: #ff5ef2;
+  background: #fa5aff;
   color: #222;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
@@ -170,7 +170,7 @@ nav h1 {
 }
 
 .nav-li a:hover {
-  background: #ff0000;
+  background: #f8f8f8;
   color: #ff71c8;
 }
 /* Portfolio styles */
